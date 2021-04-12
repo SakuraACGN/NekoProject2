@@ -1,3 +1,5 @@
 CVS
 .dirstamp
 *.o
+.DS_Store
+.vscode
